@@ -1,0 +1,56 @@
+.kk {
+    color:green;
+       
+}
+body{
+text-align:center;
+}
+
+.kk1:hover {
+	color:blue;
+    border:green inset 10px;
+    padding:10px;
+    margin:25px;
+    background-color:yellow;
+}
+
+.green:hover{
+	background-color:white;
+    border:20px solid blue;
+    font-size:15px;
+} 
+
+.green{
+background-color:#dff0e9;
+    border:10px #ab8465 inset;
+    padding:10px;
+    text-align:center;
+}
+
+.blue{
+    height:200px;
+    border-top: green ridge 10px;
+    border-left: green outset 10px;
+    border-right: green inset 10px;
+    border-bottom: green ridge 10px;
+    padding:25px;
+    margin: 50px;
+    background-color:#a6e391;
+}
+
+.blue:hover{
+	height:250px;
+}
+
+.bbb{
+	display:flex;
+    justify-content:center;
+}
+.classy{
+	display:flex;
+    justify-content:center;
+}
+
+.ork{
+    background-color:#c6d19f;
+}
